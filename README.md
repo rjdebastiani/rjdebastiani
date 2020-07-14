@@ -11,6 +11,8 @@ Estas são algumas das minhas atividades profissionais:
 - Configuração de servidores;
 - Integrações entre diferentes serviços e ferramentas para uso da equipe da empresa.
 
+![](https://visitor-badge.glitch.me/badge?page_id=rjdebastiani)
+
 <!--
 **rjdebastiani/rjdebastiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
