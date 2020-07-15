@@ -1,6 +1,6 @@
 ### Olá!
 
-Meu nome é Rafael Junior Debastiani, atualmente, sou discente do Curso de Tecnologia em Sistemas para Internet do Colégio Politécnico da UFSM e trabalho como estagiário na equipe de TI da empresa Gestão DS. 
+Meu nome é Rafael Junior Debastiani, atualmente, sou discente do <a href="https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-sistemas-para-internet">Curso de Tecnologia em Sistemas para Internet</a> do <a href="http://www.ufsm.br/unidades-universitarias/politecnico">Colégio Politécnico</a> da <a href="https://www.ufsm.br/">UFSM</a> e trabalho como estagiário na equipe de TI da empresa <a href="https://gestaods.com.br">Gestão DS</a>. 
 
 Estas são algumas das minhas atividades profissionais:
 
