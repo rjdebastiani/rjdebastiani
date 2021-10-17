@@ -1,15 +1,20 @@
-### Olá!
+### Hello!
 
-Meu nome é Rafael Junior Debastiani, atualmente, sou discente do <a href="https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-sistemas-para-internet">Curso de Tecnologia em Sistemas para Internet</a> do <a href="http://www.ufsm.br/unidades-universitarias/politecnico">Colégio Politécnico</a> da <a href="https://www.ufsm.br/">UFSM</a> e trabalho como desenvolvedor backend na equipe de TI da empresa <a href="https://gestaods.com.br">Gestão DS</a>. 
+My name is Rafael Junior Debastiani, I'm an undergraduate student in <a href="https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-sistemas-para-internet">Technology in Internet Systems</a> at <a href="https://www.ufsm.br/">Federal University of Santa Maria (UFSM)</a> and work as a Backend Developer at <a href="https://gestaods.com.br">Gestão DS</a>.
 
-Estas são algumas das minhas atividades profissionais:
+Currently, I am focused on developing and maintaining web systems and RESTful APIs with Python, Django, Django REST Framework and their respective libraries, I also have experience in Frontend development with HTML, CSS and JavaScript with its libraries.
 
-- Desenvolvimento backend usando Python com o framework Django;
-- Desenvolvimento frontend usando HTML, CSS e Javascript;
-- Desenvolvimento de APIs Restful com Django Rest Framework;
-- Desenvolvimento e gerenciamento de sites usando CMS Wordpress;
-- Configuração de servidores;
-- Integrações entre diferentes serviços e ferramentas para uso da equipe da empresa.
+I have knowledge and experience in design, development, deployment and management of web systems for the SaaS area, as well as websites using the Wordpress CMS.
+
+These are some of my latest professional acivities:
+
+- Development and maintaining of RESTful APIs with Python, Django Rest Framework and its libraries for the company’s main SaaS system;
+- Further development and management of the company’s Intranet system using Python, Django and its libraries for the backend and HTML, CSS, Javascript and its libraries for the frontend;
+- Source code management using Git and Gitlab;
+- Daily code reviews and projects management, working closely with a Scrum team;
+- Development and management of websites using Wordpress CMS;
+- Servers configuration;
+- Integration between different services and tools for the company's teams.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rjdebastiani)
 
