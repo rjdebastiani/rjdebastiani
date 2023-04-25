@@ -6,7 +6,7 @@ Currently, I am focused on developing and maintaining web systems and RESTful AP
 
 I have knowledge and experience in design, development, deployment and management of web systems for the SaaS area, as well as websites using the Wordpress CMS.
 
-![](https://visitor-badge.glitch.me/badge?page_id=rjdebastiani)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjdebastiani)](https://github.com/rjdebastiani/)
 
 <!--
 **rjdebastiani/rjdebastiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
