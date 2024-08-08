@@ -1,10 +1,6 @@
 ### Hello!
 
-My name is Rafael Junior Debastiani, I'm an undergraduate student in <a href="https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-sistemas-para-internet">Technology in Internet Systems</a> at <a href="https://www.ufsm.br/">Federal University of Santa Maria (UFSM)</a> and work as a Python/Django Software Developer at <a href="https://tembici.com.br">Tembici</a>.
-
-Currently, I am focused on developing and maintaining web systems and RESTful APIs with Python, Django, Django REST Framework and their respective libraries, I also have experience in Frontend development with HTML, CSS and JavaScript with its libraries.
-
-I have knowledge and experience in design, development, deployment and management of web systems for the SaaS area, as well as websites using the Wordpress CMS.
+My name is Rafael Junior Debastiani, I'm an undergraduate student in <a href="https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-sistemas-para-internet">Technology in Internet Systems</a> at <a href="https://www.ufsm.br/">Federal University of Santa Maria (UFSM)</a> and work as a Python/Django Software Developer.
 
 <!--
 **rjdebastiani/rjdebastiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
