@@ -1,6 +1,9 @@
 ### Hello!
 
-My name is Rafael Junior Debastiani, I'm an undergraduate student in <a href="https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-sistemas-para-internet">Technology in Internet Systems</a> at <a href="https://www.ufsm.br/">Federal University of Santa Maria (UFSM)</a> and work as a Python/Django Software Developer.
+My name is Rafael Junior Fenker Debastiani, Software Developer with over 6 years of experience with Python and Django.
+<br>Focused on developing and maintaining scalable web systems, with expertise in backend development, RESTful APIs, and performance optimization.
+<br>Experienced in integrating IoT systems with web applications, implementing real-time bidirectional communication through messaging and event-driven protocols. Familiar with cloud services for deployment and scalability.
+<br>Seeking to collaborate on challenging and innovative projects, applying technical skills to create modern and efficient solutions.
 
 <!--
 **rjdebastiani/rjdebastiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
