@@ -10,7 +10,7 @@
 
 <br />
 
-I am a software developer with **14 years of experience** (7+ years professional), based in **Brazil**. <br />
+I am **Rafael Junior Fenker Debastiani**, a software developer with **14 years of experience** (7+ years professional), based in **Brazil**. <br />
 My core focus is building scalable SaaS backends and robust RESTful APIs using **Python**, **Django**, and **DRF**.
 
 </div>
@@ -23,7 +23,7 @@ My core focus is building scalable SaaS backends and robust RESTful APIs using *
 * **Entrepreneurship:** Founder of **[debastiani.dev](https://debastiani.dev)**, a software development company specializing in backend solutions.
 * **Previous:**
     * **Co-developed** real-time messaging integrations for **[Tembici](https://www.tembici.com.br)** (LatAm's largest micromobility company), enabling mixed-fleet operations for IoT e-bikes and legacy stations.
-    * **Backend Lead** at **[GestãoDS](https://www.gestaods.com.br)**, where I designed and built the company's complete intranet system and the core SaaS for medical clinic management.
+    * **Backend Lead** at **[GestãoDS](https://www.gestaods.com.br)**, where I designed and built the company's intranet system and worked on the core SaaS for medical clinic management.
 
 <br />
 
